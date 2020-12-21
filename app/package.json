@@ -1,8 +1,8 @@
 {
-  "name": "app",
+  "name": "api-landingpage",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "A Strapi application for a landing page project",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -24,7 +24,7 @@
     "pg": "latest"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Icaro Oliveira <icarovinici@gmail.com>"
   },
   "strapi": {
     "uuid": "579203fe-df55-4aa6-8ffc-724b06115cb8"
