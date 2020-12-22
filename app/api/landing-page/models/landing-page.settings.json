@@ -48,6 +48,17 @@
       "repeatable": false,
       "component": "page.section-modules",
       "required": true
+    },
+    "sectionCalendar": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-calendar",
+      "required": true
+    },
+    "pricingBox": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.pricing-box"
     }
   }
 }
